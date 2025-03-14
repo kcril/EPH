@@ -1,4 +1,4 @@
-"Variants","f1 Ra (micron) ","f2 Tm (min/cm3)","x1 Spindle speed (rpm)","x2 Depth of cut (mm)","x3 Feed rate (mm/rev)"
+"Variants","f1 Ra (micron) ","f2 Tm (min/cm3)","x1 Spindle speed (rpm)","x2 Depth of cut (mm)","x3 Feed (mm/rev)"
 #,+,+,#,#,#
 n1,0.580382264,0.681462207,3250,0.1,0.033333333
 n2,0.585661183,0.612954875,3250,0.1,0.05
